@@ -15,4 +15,4 @@ To apply software engineering best practices (OOP, Modular Design, File I/O) in 
 
 ## 📬 Contact
 Feel free to reach out for collaboration or code reviews!
-[[Link to your LinkedIn Profile]](https://www.linkedin.com/in/mustafa-enes-kayaci/)
+[[My LinkedIn Profile]](https://www.linkedin.com/in/mustafa-enes-kayaci/)
