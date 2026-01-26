@@ -1,0 +1,6 @@
+Laptop,1200,30
+Phone,800,50
+Tablet,400,20
+Monitor,300,40
+Keyboard,100,70
+Mouse,50,100
